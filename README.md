@@ -1,4 +1,4 @@
-# Hola, soy Vicente Vega Arroyo 👋
+# Hola, me llamo Vicente Vega Arroyo 👋
 
 **Analista Programador en formación · INACAP Osorno**
 
