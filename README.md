@@ -6,6 +6,12 @@ Me interesa desarrollar software que transforme necesidades concretas en herrami
 
 Actualmente estoy consolidando mis proyectos y preparándome para mi práctica profesional de 2027.
 
+## Mi portafolio profesional
+
+Te invito a conocer mis proyectos, las tecnologías con las que trabajo y las soluciones que he desarrollado durante mi formación como Analista Programador en INACAP Osorno.
+
+[Explorar mi portafolio web →](https://vicente-vega-portafolio.lovable.app)
+
 ## Proyectos destacados
 
 ### 01 · Sistema de Control de Acceso OT/IoT
